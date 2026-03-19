@@ -1,0 +1,5 @@
+{
+  "name": "System Resource Monitor",
+  "description": "A real-time system resource monitor showing CPU, memory, and OS information.",
+  "requestFramePermissions": []
+}
